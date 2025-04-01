@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-size: cover; /* Adjust to fit the screen */
+  background-position: center center;
+  display: flex; /* Center content vertically and horizontally */
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; 
+}
+  
+h1 {
+  text-align: center;
+  color: rgb(255, 128, 0); /* Text color for contrast */
+  text-shadow: 2px 2px 4px rgb(128, 128, 128); /* Add a shadow for better readability */
+}
+
+
+a {
+  text-decoration: none;
+  color: rgb(0, 255, 64);
+  padding: 10px 20px;
+  border: 2px solid rgb(255, 0, 0);
+  border-radius: 5px;
+  margin: 10px;
+  display: inline-block;
+  background-color: rgb(253, 200, 193,0.6);
+}
+.admin-link {
+  text-decoration: none;
+  color: rgb(0, 0, 255);
+  padding: 10px 20px;
+ 	
+  border-radius: 5px;
+  margin: 10px;
+  display: inline-block;
+}
