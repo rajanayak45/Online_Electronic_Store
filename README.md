@@ -1,5 +1,5 @@
 #Online Electronic Store
-Tech Stack: Java, HTML, CSS, JavaScript, Oracle 
+Tech Stack: Java, HTML, CSS, Oracle 
 
 Project Description: Developed an Online Electronic Store that allows administrators to manage products and
 customers to browse and purchase electronic items. The system includes:
